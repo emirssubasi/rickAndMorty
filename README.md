@@ -1,4 +1,4 @@
-Ricky ve Morty Karakter Uygulaması
+Ricky and Morty Karakter Uygulaması
 
 Mobil uygulama olarak geliştirilen proje, Rick and Morty dizisinin karakterleri ve bölümleri hakkında bilgi veriyor. 
 Kullanıcı, favorilerine karakter ekleyebilecek, tüm karakterlerin ayrıntılarını görebilecek ve ardından herhangi bir bölüme geçebilecek. 
