@@ -16,15 +16,21 @@ Arama İşlevselliği - bölümler ve karakterler arasında arama yapmak için.
 Bu projeyi cihazınızda çalıştırmak için :
 
 Gereksinimler
+
 Node.js >=v18
+
 NPM veya Yarn paket yöneticisi(Npm onerilir)
+
 Android veya iOS emülatörü veya fiziksel bir cihaz
 
 git clone <repo-link>
+
 cd rickyAndMorty
+
 npm install
 
 Android ==> npm run android
+
 IOS ==> npm run ios
 
 
