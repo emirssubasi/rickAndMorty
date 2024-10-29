@@ -6,9 +6,13 @@ Kullanıcı, favorilerine karakter ekleyebilecek, tüm karakterlerin ayrıntıla
 
 Özellikler
 Bölüm Listesi: Tüm bölümleri görün ve ayrıntılarına geçin.
+
 Karakter Detayları: Her karakterin detay sayfasına gidin ve karakter hakkında bilgi alın.
+
 Favoriler - favori listesine karakter ekleme ve çıkarma ve tüm favori karakterleri görüntüleme olanağı sağlar.
+
 Arama İşlevselliği - bölümler ve karakterler arasında arama yapmak için.
+
 Çevrimdışı Veri Depolama - AsyncStorage kullanarak sık kullanılanları cihazda yerel olarak depolamak için.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
