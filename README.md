@@ -57,6 +57,4 @@ Proje Gorselleri
 
 ![Screenshot 2024-10-29 025002](https://github.com/user-attachments/assets/4075eb4d-2e04-47b3-9ae4-e91bf6f6aca0)
 
-
-
-
+![Screenshot 2024-10-29 132255](https://github.com/user-attachments/assets/4adb8075-30f4-4f21-8164-15f27f7bbf5c)
