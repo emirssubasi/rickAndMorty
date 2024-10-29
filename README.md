@@ -1,4 +1,5 @@
 Ricky ve Morty Karakter Uygulaması
+
 Mobil uygulama olarak geliştirilen proje, Rick and Morty dizisinin karakterleri ve bölümleri hakkında bilgi veriyor. 
 Kullanıcı, favorilerine karakter ekleyebilecek, tüm karakterlerin ayrıntılarını görebilecek ve ardından herhangi bir bölüme geçebilecek. 
 Çeşitli popüler kütüphaneler kullanılarak React Native üzerinde geliştirilmiştir.
@@ -47,6 +48,9 @@ Proje Gorselleri
 ![Screenshot 2024-10-29 024540](https://github.com/user-attachments/assets/c6bb395e-06c8-4874-92d9-550b039028e5)
 
 ![Screenshot 2024-10-29 025143](https://github.com/user-attachments/assets/26261026-99fc-484b-9624-a9b6a4eafa75)
+
+![Screenshot 2024-10-29 025002](https://github.com/user-attachments/assets/4075eb4d-2e04-47b3-9ae4-e91bf6f6aca0)
+
 
 
 
